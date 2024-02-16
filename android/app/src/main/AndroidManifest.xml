@@ -64,10 +64,6 @@ android:protectionLevel="signature" />
             </intent-filter>
         </service>
 
-        <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBYmax9vtNdT6aRZVBw65oDtjVFwDce0nE"/>
-            <!-- android:value="AIzaSyCZJEumD1BJaJO4-RLxPT1cGr0HZvM91-0"/> -->
 
     </application>
 
