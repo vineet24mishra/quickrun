@@ -1,6 +1,5 @@
 const Constants = {
-    // GOOGLE_API_KEY : "AIzaSyC-pVwrjOD-NBZ97TFRMTlMmr4VwbsAZHA",
-    GOOGLE_API_KEY : "AIzaSyBYmax9vtNdT6aRZVBw65oDtjVFwDce0nE",
+    GOOGLE_API_KEY : "Afdkdfj",
     PLATFORM_ANDROID : "android",
     PLATFORM_IOS : "ios",
     SAVE_ACCESS_TOKEN : "save_token",
